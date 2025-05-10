@@ -3,7 +3,7 @@
 Model **Ensemble Learning (Random Forest + AdaBoost)** untuk mendeteksi berita hoax, dengan Explainable AI (LIME).
 
 ## 🚀 Instalasi
-
+pip install ensemble_hoax_detector
 ## 🔍 Cara Penggunaan
 ```python
 from ensemble_hoax_detector import predict_hoax, explain_prediction
